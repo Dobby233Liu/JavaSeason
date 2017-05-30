@@ -9,14 +9,20 @@ public class Main
 		Scanner input = new Scanner(System.in);
 
 		System.out.print("Enter a number: ");
-		double number9 = input.nextDouble();
-
+		double baka1 = input.nextDouble();
+			
+		
 		System.out.print("Enter second number: ");
-		double notDouble = input.nextDouble();
+		
+		double baka2 = input.nextDouble();
 
-		double product = number9;
+		double product = baka1;
+        
+		System.out.println("true");
+		
+		System.out.printf("The numbers is: %f, %f", product, baka2);
 		
 		
-		System.out.printf("The numbers is: %f, %f", product, notDouble);
+			
 	}
 }
