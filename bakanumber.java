@@ -8,11 +8,11 @@ public class Main
 
 		Scanner input = new Scanner(System.in);
 
-		System.out.print("Enter a number: ");
+		System.out.print("Enter a baka (aka number) : ");
 		double baka1 = input.nextDouble();
 			
 		
-		System.out.print("Enter second number: ");
+		System.out.print("Enter second baka: ");
 		
 		double baka2 = input.nextDouble();
 
