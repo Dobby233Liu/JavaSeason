@@ -18,7 +18,7 @@ public class Main
 
 		double product = baka1;
         
-		System.out.println("true");
+		System.out.println(true);
 		
 		System.out.printf("The numbers is: %f, %f", product, baka2);
 		
